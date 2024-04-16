@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋 I'm Fredwil
 
-<!--
-**fjhadz1/fjhadz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Software Developer | 🌟 Passionate about Coding and Teaching | ✨ 
+By Day I build Coders
+By Night I build Websites
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a software developer with a keen interest in coding and sharing knowledge through teaching. 
+Here you'll find a collection of my projects, contributions, and experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Quick Overview:
+
+### 💻 Languages and Tools:
+
+### 📫 Let's Connect:
+- LinkedIn:
+- Portfolio:
+
+
+
