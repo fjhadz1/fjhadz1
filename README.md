@@ -8,11 +8,17 @@ Here you'll find a collection of my projects, contributions, and experiments.
 
 ### 🚀 Quick Overview:
 
-### 💻 Languages and Tools:
-- C++
+### 💻 Languages:
 - Javascript
 - Python
 - PHP
+- C++
+
+### Frameworks and Tools
+- Shopify
+- Wordpress
+- Bootstrap
+
 
 ### 📫 Let's Connect:
 - LinkedIn:
