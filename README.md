@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Fredwil
 ## 🌟 By Day I build Coders. By Night I build Websites | ✨ 
+## 👨‍💻 Certified Shopify Expert
 ## 👨‍💻 Software Developer 👨‍🏫 IT Instructor
 
 Welcome to my GitHub profile! I'm a software developer with a keen interest in coding and sharing knowledge through teaching. 
