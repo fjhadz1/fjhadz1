@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fredwil</h1>
+<h2 align="center">Certified Shopify Expert | Software Developer | Digital Marketing Specialist | IT Instructor </h2>
+<h3 align="center"> <i>By day I build Coders, By Night I build Websites </i> </h3>
+
 <h3 align="center">I'm a software developer with a keen interest in coding and sharing knowledge through teaching. Here you'll find a collection of my projects, contributions, and experiments.</h3>
 
 <h3 align="left">Connect with me:</h3>
