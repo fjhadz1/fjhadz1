@@ -5,7 +5,7 @@
 <h3 align="center"> <i>By day I build Coders, By Night I build Websites </i> </h3>
 
 <h3 align="center">I'm a software developer with a keen interest in coding and sharing knowledge through teaching. Here you'll find a collection of my projects, contributions, and experiments.</h3>
- <img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+ <img align="right" width="50%" height="50%"src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fredwiljucom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredwiljucom" height="30" width="40" /></a>
